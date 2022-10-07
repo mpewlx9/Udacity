@@ -6,8 +6,15 @@ This project is to build a web app which can be used to calssify disaster text m
 The app has an AI engine embedded to classify disastger text messages utilizing Random Forester Classfication algorithm.
 
 ### Files Description
+1. data folder. This folder has the sample messages and categories in csv format.
+   - process_data.py. This python code merges messages and categoreis data, cleans up the data and creates a SQL database.
+   - DisasterResponse.db. The database created by python code.
+2. models folder. 
+   - train_classifier.py. This python code has Random Forester Classification model.
+   - classifier.pkl. This file is exported model output by python code.
 
 ### Prerequisite
+To run python code, the following pythyon packages are needed: pandas, numpy, re, pickle, nltk, flask, json, plotly, sklearn, sqlalchemy, sys, warnings.
 
 ### Instructions
 1. Run the following commands in the project's root directory to set up your database and model.
