@@ -11,7 +11,6 @@ The app has an AI engine embedded to classify disastger text messages utilizing 
    - DisasterResponse.db. The database created by python code.
 2. models folder. 
    - train_classifier.py. This python code has Random Forester Classification model.
-   - classifier.pkl. This file is exported model output by python code.
 3. app folder.
    - run.py. The python code to build the app.
    - templates folder. This folder has the prebuild html files used to create the web app.
