@@ -13,3 +13,12 @@ This is a complex model and can be divided into the following 7 steps:
 - Step 7: Test Your Algorithm
 
 The details about each step can be found in file dog_app-Copy1.ipynb
+## File Descriptions
+- dog_app-Copy1.ipynb. This file has descriptions for each step, modeling code, and code output.
+- 5 image files. These files are used to test the CNN model.
+
+## Blog
+A medium blog is written based on this project
+
+## Reference
+This project refers to Github resource https://github.com/lakshman533/Dog-Breed-Identifier
