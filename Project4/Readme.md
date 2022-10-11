@@ -11,3 +11,5 @@ This is a complex model and can be divided into the following 7 steps:
 - Step 5: Create a CNN to Classify Dog Breeds (using Transfer Learning)
 - Step 6: Write your Algorithm
 - Step 7: Test Your Algorithm
+
+The details about each step can be found in file dog_app-Copy1.ipynb
