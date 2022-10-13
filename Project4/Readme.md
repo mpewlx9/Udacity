@@ -18,7 +18,7 @@ The details about each step can be found in file dog_app-Copy1.ipynb
 - 5 image files. These files are used to test the CNN model.
 
 ## Blog
-A medium blog is written based on this project
+A medium blog is written based on this project https://medium.com/@mpewlx9/a-cnn-model-based-dog-breed-classifier-959d12773dd5
 
 ## Reference
 This project refers to Github resource https://github.com/lakshman533/Dog-Breed-Identifier
