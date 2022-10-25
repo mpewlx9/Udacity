@@ -5,14 +5,20 @@ In this project, we will analyze interactions that users have with articles on t
 
 # Project details
 The project is divided into the following 5 tasks.
-1. Exploratory Data Analysis
-2. Rank Based Recommendations
-3. User-User Based Collaborative Filtering
-4. Content Based Recommendations (EXTRA - NOT REQUIRED)
-5. Matrix Factorization
+### 1. Exploratory Data Analysis
+ This step is to explore, clean and preprocess the data from the IBM Watson Studio platform.
+### 2. Rank Based Recommendations
+In this step, we find the n top articles ordered with most interactions as the top.
+### 3. User-User Based Collaborative Filtering
+Here we would like to go one further step to find users which are similar in terms of top articles they interacted. The top articles can then be recommended to the similar users. 
+At the last of this step, given a new user, we want to find the top 10 recommended articles.
+### 4. Content Based Recommendations (EXTRA - NOT REQUIRED)
+This step is about another way of recommendation method, content based recommendation. It is required. If you are interested, please refer to other developers.
+### 5. Matrix Factorization
+
 
 # File Descriptions
  - Recommendations_with_IBM-Copy1.ipynb. This is the original Jupiter files containing python codes, instructions step by step and initial output.
- - 
+ - Recommendations_with_IBM.html. The html file generated based on file Recommendations_with_IBM-Copy1.ipynb.
 # Reference
 This project is partially referred to some modeling skills and methodologies in https://github.com/tylerzhang77/Recommender-System-with-IBM
