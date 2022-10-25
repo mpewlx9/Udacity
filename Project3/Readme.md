@@ -15,8 +15,7 @@ At the last of this step, given a new user, we want to find the top 10 recommend
 ### 4. Content Based Recommendations (EXTRA - NOT REQUIRED)
 This step is about another way of recommendation method, content based recommendation. It is required. If you are interested, please refer to other developers.
 ### 5. Matrix Factorization
-
-
+In this part, we use matrix factorization to make article recommendations to the users on the IBM Watson Studio platform.
 # File Descriptions
  - Recommendations_with_IBM-Copy1.ipynb. This is the original Jupiter files containing python codes, instructions step by step and initial output.
  - Recommendations_with_IBM.html. The html file generated based on file Recommendations_with_IBM-Copy1.ipynb.
