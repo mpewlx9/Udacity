@@ -14,4 +14,4 @@ The project is divided into the following 5 tasks.
 # File Descriptions
 
 # Reference
-This project is referred to some modeling skills and methodology in https://github.com/tylerzhang77/Recommender-System-with-IBM
+This project is partially referred to some modeling skills and methodologies in https://github.com/tylerzhang77/Recommender-System-with-IBM
