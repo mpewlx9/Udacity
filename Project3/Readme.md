@@ -12,6 +12,7 @@ The project is divided into the following 5 tasks.
 5. Matrix Factorization
 
 # File Descriptions
-
+ - Recommendations_with_IBM-Copy1.ipynb. This is the original Jupiter files containing python codes, instructions step by step and initial output.
+ - 
 # Reference
 This project is partially referred to some modeling skills and methodologies in https://github.com/tylerzhang77/Recommender-System-with-IBM
