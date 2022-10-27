@@ -18,6 +18,6 @@ This step is about another way of recommendation method, content based recommend
 In this part, we use matrix factorization to make article recommendations to the users on the IBM Watson Studio platform.
 # File Descriptions
  - Recommendations_with_IBM-Copy1.ipynb. This is the original Jupiter files containing python codes, instructions step by step and initial output.
- - Recommendations_with_IBM.html. The html file generated based on file Recommendations_with_IBM-Copy1.ipynb.
+ - Recommendations_with_IBM-Copy1.html. The html file generated based on file Recommendations_with_IBM-Copy1.ipynb.
 # Reference
 This project is partially referred to some modeling skills and methodologies in https://github.com/tylerzhang77/Recommender-System-with-IBM
