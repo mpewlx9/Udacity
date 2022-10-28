@@ -17,6 +17,11 @@ Plot the bar chart of different professional types.
 Use chart to show the top 10 countries in terms of survey respondents.
 #### Data Analysis
 For each question, we use statistical measurements such as mean and median to find the answer.
+#### Results Summary
+Result to Question 1: From the results above, we can see the mean and average of the salarie for developers in Germany is significant lower than those in US.
+Result to Question 2: It looks average career satisfaction for Germany developers is slightly lower than those in US. From median point view, Germany developers is actually matched to US developers.
+Result to Question 3: Mean job satisfaction for developers from Germany is slightly lower than those in United States. On the other hand, the median value is actually significantly lower.
+## File Descriptions
 #### Jupytor notebook
  - It has the code and output to explore data and complete the analysis.
 #### Data:
