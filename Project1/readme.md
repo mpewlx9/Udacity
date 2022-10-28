@@ -5,8 +5,8 @@ this project will get some insights from data survey_results_public_P1 on the we
 ## Data Analysis
 ## Summary Results
 ## File Descriptions
-Readme
-Jupytor notebook: It has the code and output to explore data and complete the analysis.
+Jupytor notebook:
+ - It has the code and output to explore data and complete the analysis.
 Data:
  - survey_results_schema
  - survey_results_public. The file size is too big to be uploaded into Github. You can download the file from Stack overflow website.
