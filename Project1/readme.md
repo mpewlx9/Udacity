@@ -1,13 +1,14 @@
 # Stack Overflow Developers Survey 2017
 ## Project Motivation
 This is the first project “Write A Data Science Blog Post” for the “Data Scientist Nanodegree” in Udacity training.
-this project will get some insights from data survey_results_public_P1 on the welling of the software engineers from the United States and how it is compared to other countries. Three questions are to be answered: Question 1: does US software engineers have higher salary compared to the those from other countires? Question 2: does US software engineers have higher career satisfaction compared to the those from other countires? Question 3: does US software engineers have higher career satisfaction compared to the those from other countires?
+
+This project will get some insights from data survey_results by Stack Overflow Survey (2017) on the well being of the software engineers from Germany and how it is compared to United States. Three questions are to be answered: Question 1: Do software developers in Germany earn as much as their peers in United States? Question 2: Do software developers in Germany have higher career satisfaction than those in US? Question 3: Do software developers in Germany have higher job satisfaction than those in US?
 ## Data Analysis
-## Summary Results
+
 ## File Descriptions
-Jupytor notebook:
+#### Jupytor notebook
  - It has the code and output to explore data and complete the analysis.
-Data:
+#### Data:
  - survey_results_schema
  - survey_results_public. The file size is too big to be uploaded into Github. You can download the file from Stack overflow website.
 ## Blog Link
